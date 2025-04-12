@@ -17,3 +17,6 @@ I used Python (Pandas) to clean a recipe dataset and BigQuery SQL to explore rec
 ## 🔍 SQL Queries
 - Filter by vegetarian, by ingredients, or random picks
 
+##  📦 Data Source
+
+This project uses the [Recipe Dataset by Joseph R. Martinez](https://github.com/josephrmartinez/recipe-dataset), which contains over 13,000 real-world recipes, including ingredients, instructions, and titles.
