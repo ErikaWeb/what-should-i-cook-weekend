@@ -22,7 +22,5 @@ LIMIT 1;
 
 SELECT Title, Cleaned_Ingredients, Instructions
 FROM `erika-4-sql.recipes.recipes`
-WHERE LOWER(Cleaned_Ingredients) LIKE '%onion%'
-  AND LOWER(Cleaned_Ingredients) LIKE '%potato%'
-  AND LOWER(Cleaned_Ingredients) LIKE '%egg%'
+WHERE LOWER(Cleaned_Ingredients) LIKE '%Nduja%' 
 LIMIT 10;
