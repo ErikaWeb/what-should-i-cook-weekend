@@ -2,12 +2,12 @@
 Python + SQL project that suggests meals based on what's in your fridge
 This project helps answer that timeless question: *"What can I cook with what I have?"*
 
-I used Python (pandas) to clean a recipe dataset and BigQuery SQL to explore recipe suggestions based on fridge-friendly ingredients.
+I used Python (Pandas) to clean a recipe dataset and BigQuery SQL to explore recipe suggestions based on fridge-friendly ingredients.
 
 ## 🔧 Tools Used
-- Python (pandas)
-- BigQuery (SQL)
-- Jupyter Notebook
+- Python (Pandas) 
+- BigQuery (SQL)  # recipes.sql
+- Jupyter Notebook # recipe_cleaning.ipynb
 
 ## 🧹 Data Cleaning Highlights
 - Fixed broken characters and encoding (ISO-8859-1)
