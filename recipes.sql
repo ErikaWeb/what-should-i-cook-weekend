@@ -22,5 +22,5 @@ LIMIT 1;
 
 SELECT Title, Cleaned_Ingredients, Instructions
 FROM `erika-4-sql.recipes.recipes`
-WHERE LOWER(Cleaned_Ingredients) LIKE '%Nduja%' 
+WHERE LOWER(Cleaned_Ingredients) LIKE '%furikake%' 
 LIMIT 10;
